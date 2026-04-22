@@ -1,7 +1,7 @@
 # 🚀 LeetCode Journey: Chinh Phục Thuật Toán
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nhattruong?theme=dark&font=Ubuntu) 
-*(Thay 'nhattruong' bằng username LeetCode của bạn)*
+![LeetCode Stats](https://leetcard.jacoblin.cool/phanminhnhut19032007?theme=dark&font=Ubuntu) 
+
 
 Chào mừng bạn đến với kho lưu trữ lời giải LeetCode của mình. Đây là nơi mình lưu lại quá trình rèn luyện tư duy lập trình, cấu trúc dữ liệu và giải thuật mỗi ngày.
 
@@ -17,6 +17,20 @@ Chào mừng bạn đến với kho lưu trữ lời giải LeetCode của mình
 
 ---
 
+## 🛠 Cấu Trúc Thư Mục
 
+Các bài giải được phân loại theo chủ đề và độ khó để dễ dàng tra cứu:
 
-
+```text
+.
+├── Easy/
+│   ├── Two-Sum/
+│   │   ├── Solution.cpp
+│   │   └── README.md
+├── Medium/
+│   ├── Add-Two-Numbers/
+│   │   ├── Solution.py
+│   │   └── README.md
+└── Hard/
+    └── Median-of-Two-Sorted-Arrays/
+        └── Solution.java
