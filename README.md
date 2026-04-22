@@ -17,20 +17,4 @@ Chào mừng bạn đến với kho lưu trữ lời giải LeetCode của mình
 
 ---
 
-## 🛠 Cấu Trúc Thư Mục
 
-Các bài giải được phân loại theo chủ đề và độ khó để dễ dàng tra cứu:
-
-```text
-.
-├── Easy/
-│   ├── Two-Sum/
-│   │   ├── Solution.cpp
-│   │   └── README.md
-├── Medium/
-│   ├── Add-Two-Numbers/
-│   │   ├── Solution.py
-│   │   └── README.md
-└── Hard/
-    └── Median-of-Two-Sorted-Arrays/
-        └── Solution.java
