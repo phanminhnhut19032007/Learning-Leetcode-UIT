@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        multiset<int> p(nums.begin(),nums.end());
+       multiset<int> p(nums.begin(),nums.end());
         vector<int> k;
         int i=0;
         for(int x: p)
